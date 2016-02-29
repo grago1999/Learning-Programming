@@ -44,3 +44,28 @@ print("Hello!")
 print(7)
 let floatToPrint = 7.0
 print(floatToPrint)
+
+
+
+// Using Objects
+
+let intA = 2
+let intB = 3
+let sumAB = intA+intB
+print(sumAB)
+
+/*
+    Add: +
+    Subtract: -
+    Multiply: *
+    Divide: /
+*/
+
+let strA = "Hello "
+let strB = "World!"
+print(strA+strB)
+
+// Only + works with strings
+
+
+
