@@ -45,7 +45,7 @@ print(7)
 let floatToPrint = 7.0
 print(floatToPrint)
 
-
+
 
 // Using Objects
 
