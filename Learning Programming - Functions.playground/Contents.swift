@@ -37,3 +37,13 @@ func addMyNumToTen(myNum:Int) -> Int {
 
 let newNum = addMyNumToTen(4)
 
+fib
+func fib(prevNum:Int) -> Int {
+    if prevNum == 0 {
+        return 1
+    } else if prevNum == 1 {
+        return 1
+    } else {
+        return fib(prevNum-1)+fib(prevNum-2)
+    }
+}
